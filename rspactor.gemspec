@@ -1,6 +1,6 @@
 spec = Gem::Specification.new do |s| 
   s.name = "rspactor"
-  s.version = "0.2.3"
+  s.version = "0.2.4"
   s.authors = ["Andreas Wolff","Pelle Braendgaard"]
   s.email = "treas@dynamicdudes.com"
   s.homepage = "http://rubyphunk.com"

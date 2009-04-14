@@ -36,6 +36,9 @@ class RSpactorFormatter
 
   def dump_pending
   end
+  
+  def example_group_started(*ignore_these)
+  end
 
   def close
   end
